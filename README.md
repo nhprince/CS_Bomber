@@ -1,4 +1,4 @@
-Here’s the full README.md in code format, with everything from “Run it Locally” to the end included properly:
+
 
 <h1 align="center">💥 CS BOMBER 💥</h1>
 
