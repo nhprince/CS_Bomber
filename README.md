@@ -34,6 +34,7 @@
 ```bash
 git clone https://github.com/YourUsername/CS-Bomber.git  
 cd CS-Bomber
+```
 
 🚀 Run it Locally
 
