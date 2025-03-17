@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="https://nhprince.github.io/CS-Bomber/"><img src="https://img.shields.io/badge/Live%20Demo-Online-green?style=for-the-badge"></a>
-  <img src="https://img.shields.io/github/license/YourUsername/CS-Bomber?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/YourUsername/CS-Bomber?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/nhprince/CS-Bomber?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/nhprince/CS-Bomber?style=for-the-badge">
 </p>
 
 ---
