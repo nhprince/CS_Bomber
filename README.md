@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 **LIVE DEMO**
-🔗 **[CS Bomber - GitHub Pages](https://nhprince.github.io/CS-Bomber/)** *(Click at your own risk!)*  
+🔗 **[CS Bomber - GitHub Pages](https://nhprince.github.io/CS_Bomber/)** *(Click at your own risk!)*  
 
 ---
 
