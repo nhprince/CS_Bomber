@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://nhprince.github.io/CS-Bomber/"><img src="https://img.shields.io/badge/Live%20Demo-Online-green?style=for-the-badge"></a>
-  <img src="https://img.shields.io/github/license/nhprince/CS-Bomber?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/nhprince/CS-Bomber?style=for-the-badge">
+  <a href="https://nhprince.github.io/CS_Bomber/"><img src="https://img.shields.io/badge/Live%20Demo-Online-green?style=for-the-badge"></a>
+  <img src="https://img.shields.io/github/license/nhprince/CS_Bomber?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/nhprince/CS_Bomber?style=for-the-badge">
 </p>
 
 ---
@@ -32,7 +32,7 @@
 ## 🛠️ **INSTALLATION (For Developers)**
 ### 🔥 **Clone the Repo**
 ```bash
-git clone https://github.com/YourUsername/CS-Bomber.git  
+git clone https://github.com/YourUsername/CS_Bomber.git  
 cd CS-Bomber
 ```
 
